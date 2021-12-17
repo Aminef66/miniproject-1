@@ -1,0 +1,9 @@
+@mixin pos {
+    content: "";
+    position: absolute;
+}
+
+@mixin style {
+    display: flex;
+    justify-content: center;
+}
